@@ -32,3 +32,6 @@ test_targets = [10, 12]
 pred = [predict(i) for i in test_inputs]
 for i, t, p in zip(test_inputs, test_targets, pred):
   print(f"input:{i}, target:{t}, pred:{p:.4f}")
+
+#zip es una función de Python que empareja elementos de varias listas por posición, para recorrerlas a la vez.
+#predict es la función del modelo: recibe una entrada y devuelve la salida que el modelo cree que corresponde.
