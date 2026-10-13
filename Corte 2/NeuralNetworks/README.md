@@ -7,7 +7,7 @@ Esta carpeta contiene las implementaciones en código fuente puro de cada práct
 ### Bloque 1: Python Nativo
 * **`neuron1.py`**: Práctica 1 — Modelo $y = wx$ con regla de actualización directa del peso.
 * **`neuron1.1.py`**: Práctica 2 — Modelo $y = wx$ utilizando Error Cuadrático y Descenso por Gradiente.
-* **`neuron1.2.py`**: Práctica 3 — Modelo completo $y = wx + b$ (peso y sesgo) con descenso por gradiente.
+* **`neuron1.3.py`**: Práctica 3 — Modelo completo $y = wx + b$ (peso y sesgo) con descenso por gradiente.
 
 ### Bloque 2: Vectorización con NumPy
 * **`Primera Práctica Vectorizada (NumPy + Matplotlib).py`**: Práctica 4 — Implementación vectorizada del modelo $y = wx$.
